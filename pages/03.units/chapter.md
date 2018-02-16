@@ -6,8 +6,8 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 2
+### Chapter 3
 
-# Intermediate
+# Aggregate Unit
 
-Delve deeper into more **complex** topics
+How to represent Units as Aggregates in an NETN Federation
