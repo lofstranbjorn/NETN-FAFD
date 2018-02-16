@@ -6,14 +6,19 @@ taxonomy:
 visible: true
 ---
 
-Lorem markdownum pius. Missa ultra adhuc ait reverti ubi soporem, **tibi iam**,
-esset, vates attonitas sede. Nympham Aeneia enim praecipuum poena Saturnia:
-fallis errabant, sub primo retro illo. Caesariem tincta natam contineat demens.
-*Si sed* ardescunt Delphice quasque alteraque servant.
+The NETN FOM is a defined set of HLA FOM Modules and is a combination of standard modules, modules defined as part of related standards and NETN specific modules.
 
-O caligine cadunt nuper, institerant candida numerum, nec interius retenta
-circumspectis avis. Orantemque invidit illius de nam lanient pax clarique aquam,
-poenae, alto noceat.
+PIC
+
+In any NETN based HLA federation one or more of the NETN FOM modules can be used. Each FOM Module represent types of objects and events 
+(interactions). Systems participating in an NETN federation can publish and subscribe to the types of data defined in the NETN FOM 
+Modules. The NETN FOM also in
+
+The Following FOM Modules are included in the NETN FOM
+
+* RPR-BASE
+* RPR-ENTITY
+
 
 ## Percussae oculos
 
