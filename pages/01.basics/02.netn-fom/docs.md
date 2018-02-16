@@ -1,5 +1,5 @@
 ---
-title: 'NETN FOM'
+title: 'Federation Object Model'
 taxonomy:
     category:
         - docs
