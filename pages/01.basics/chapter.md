@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: Introduction
 taxonomy:
     category:
         - docs
@@ -8,6 +8,6 @@ child_type: docs
 
 ### Chapter 1
 
-# Basics
+# Introduction
 
 Discover the **NETN FAFD** principles and constructs
