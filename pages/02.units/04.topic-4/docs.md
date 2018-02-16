@@ -1,7 +1,9 @@
 ---
-title: Topic 4
+title: 'Holdings and Resources'
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 Lorem markdownum scire deposito manumque facinus. Opprobria sic Iris vimque
