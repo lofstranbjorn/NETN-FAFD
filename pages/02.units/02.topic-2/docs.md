@@ -1,7 +1,9 @@
 ---
-title: Topic 2
+title: 'Transfer of Modelling Responsibilities'
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
 Lorem *markdownum saxum et* telum revellere in victus vultus cogamque ut quoque
