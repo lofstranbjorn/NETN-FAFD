@@ -1,5 +1,5 @@
 ---
-title: 'Transfer of Modelling Responsibilities'
+title: 'Modelling Responsibilities'
 taxonomy:
     category:
         - docs
