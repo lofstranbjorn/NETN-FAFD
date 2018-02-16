@@ -2,7 +2,6 @@
 title: Platforms
 ---
 
-
 ### Chapter 2
 
 # Platforms
