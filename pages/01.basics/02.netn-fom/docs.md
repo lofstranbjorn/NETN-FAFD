@@ -9,6 +9,7 @@ visible: true
 
 The NETN FOM is a defined set of HLA FOM Modules and is a combination of standard modules, modules defined as part of related standards and NETN specific modules.
 
+![](Picture1.jpg)
 
 In any NETN based HLA federation one or more of the NETN FOM modules can be used. Each FOM Module represent types of objects and events 
 (interactions) that are used to exchange information between Federates (federated systems). Federates in an NETN federation publish and 
