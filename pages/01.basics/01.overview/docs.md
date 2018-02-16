@@ -12,12 +12,8 @@ distributed simulation and training systems.
 
 Current version of the NETN FAFD is published by NATO as STANREC 4800 and is publically available. 
 
-! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris feugiat quam erat, ut iaculis diam posuere nec.
-! Vestibulum eu condimentum urna. Vestibulum feugiat odio ut sodales porta. Donec sit amet ante mi. Donec lobortis
-! orci dolor. Donec tristique volutpat ultricies. Nullam tempus, enim sit amet fringilla facilisis, ipsum ex
-! tincidunt ipsum, vel placerat sem sem vitae risus. Aenean posuere sed purus nec pretium.
-
-NETN FAFD is based on RPR-FOM v2.0 and any RPR-FOM based Federate is per definition NETN compliant. But that does definitely not meen fully compliant as you will discover later in this documentation.
+! NETN FAFD is based on RPR-FOM v2.0 and any RPR-FOM based Federate is per definition NETN compliant. 
+! But that does definitely not meen fully compliant as you will discover later in this documentation.
 
 In this documentation the main focus is use of the NETN FAFD when designing, implementing and executing distributed 
 federated simulations using the IEEE 1516 **High-Level Architecture** (HLA) as the core technical interoperability standard and the NETN FAFD **Federation Object Model** (FOM) Modules as the associated information exchange object model. 
