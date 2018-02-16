@@ -1,6 +1,5 @@
 ---
 title: 'NETN FOM'
-media_order: 'NETN FOM.png'
 taxonomy:
     category:
         - docs
