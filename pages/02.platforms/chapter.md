@@ -2,8 +2,9 @@
 title: Platforms
 ---
 
-### Chapter Number
 
-# Chapter Title
+### Chapter 2
 
-Chapter description.
+# Platforms
+
+How to represent simulated Platforms in NETN Federations
