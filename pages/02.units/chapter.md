@@ -1,7 +1,8 @@
 ---
-title: Intermediate
+title: 'Units and Platforms'
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
