@@ -1,9 +1,12 @@
 ---
-title: Topic 1
+title: Identification
 taxonomy:
-    category: docs
+    category:
+        - docs
 process:
-	twig: true
+    markdown: true
+    twig: true
+visible: true
 ---
 
 Lorem markdownum murmure fidissime suumque. Nivea agris, duarum longaeque Ide
