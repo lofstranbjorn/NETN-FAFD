@@ -1,7 +1,8 @@
 ---
-title: Advanced
+title: CBRN
 taxonomy:
-    category: docs
+    category:
+        - docs
 child_type: docs
 ---
 
