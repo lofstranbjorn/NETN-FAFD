@@ -1,5 +1,5 @@
 ---
-title: 'Federation Design'
+title: 'Setting the Scene'
 taxonomy:
     category:
         - docs
@@ -16,6 +16,8 @@ Based on the conceptual model and the overall federation requirements, an alloca
 In this tutorial we will use a conceptual model to represent a synthetic environment in support of a generic Staff Training Computer Assisted Exercise (CAX). 
 
 The conceptual model we will use include aspects of combatant and non-combatant forces, platforms, sensors, weapons and other equipment. Processes and behaviour concepts such as orders, missions, tasks and reporting are also included as well as synthetic natural environment (SNE) aspects such as terrain, weather etc. The level of fidelity in the conceptual model is limited and the federation design is only one of many possible.
+
+In short, we want to represent units on a battlefield moving around, detecting enemy forces using available sensors, engaging the enemy with weapons, consuming resources such as fuel and food, reporting to and taking orders from superiour units. A units ability to perform this will be affected by terrain, weather, availability and damage state of resources and equipment. 
 
 ### Allocation of Modelling Responsibilities
 
