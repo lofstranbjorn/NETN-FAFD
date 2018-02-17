@@ -15,7 +15,9 @@ In Staff Training CAX the Trainees (Training Audience) exercise their staff proc
 
 * Live simulation is when the training audience use real physical objects, systems or people to interact with the synthetic environment
 * Virtual simulation is when the training audience interact with the synthetic environment using a virtual and visual representation of the environment
-* Constructive simulation is used to model all objects, processes, events and actions occuring in the synthetic environment and that will stimulate live and virtual interfaces to the training audience.
+* Constructive simulation is used to model all objects, processes, events and actions occuring in the synthetic environment and that will stimulate live and virtual interfaces to the training audience. Although there is no direct interaction by the Training Audience, the Exercise Control staff may manipulate the synthetic environment through constructive simulation interfaces. 
+
+In this tutorial we will mainly focus on distributed constructive simulation.
 
 ### Conceptual Model
 
