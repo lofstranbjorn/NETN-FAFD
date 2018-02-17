@@ -10,12 +10,9 @@ The NETN FOM is a defined set of HLA FOM Modules and is a combination of standar
 
 ![](Picture1.jpg)
 
-In any NETN based HLA federation one or more of the NETN FOM modules can be used. Each FOM Module represent types of objects and events 
-(interactions) that are used to exchange information between Federates (federated systems). Federates in an NETN federation publish and 
-subscribe to the classes defined in the NETN FOM Modules and use HLA services to send and receive updates of class attributes and 
-interaction parameters. Individual NETN FOM Modules can be extended and included as part of other FOMs.
+In any NETN based HLA federation one or more of the NETN FOM modules can be used. Each FOM Module represent types of objects and events (interactions) that are used to exchange information between Federates (federated systems). Federates in an NETN federation publish and subscribe to the classes defined in the NETN FOM and use HLA services to send and receive updates of object attributes and interaction parameters. Individual NETN FOM Modules can be extended and included as part of other FOMs.
 
-The Following FOM Modules are identified as part of the NETN FOM
+The Following FOM Modules are defined as part of the NETN FOM
 
 * RPR-FOM v2.0 FOM Modules
 * NETN Base
@@ -31,3 +28,4 @@ The Following FOM Modules are identified as part of the NETN FOM
 * NETN Repair
 * NETN Transport
 * NETN Supply
+* MSDL
