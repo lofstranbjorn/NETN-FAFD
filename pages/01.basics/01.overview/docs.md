@@ -28,7 +28,7 @@ The NETN FOM is a defined set of HLA FOM Modules and is a combination of standar
 
 ![](Picture1.jpg)
 
-### NETN Federation Object Model
+### Federation Object Model 
 
 In any NETN based HLA federation one or more of the NETN FOM modules can be used. Each FOM Module represent types of objects and events (interactions) that are used to exchange information between Federates (federated systems). Federates in an NETN federation publish and subscribe to the classes defined in the NETN FOM and use HLA services to send and receive updates of object attributes and interaction parameters. Individual NETN FOM Modules can be extended and included as part of other FOMs.
 
@@ -51,4 +51,7 @@ The Following FOM Modules are defined as part of the NETN FOM
 * NETN MSDL
 * NETN Weather
 
-### NETN Federation Agreements
+### Federation Agreements
+
+A Federation Agreement is a specification of how FOM Modules and HLA services should be used to support a distributed simulation. This tutorial specifies best practices and federation agreements for typical NETN FAFD based federations in support of Staff Training 
+Computer Assisted Exercises (CAX). 
