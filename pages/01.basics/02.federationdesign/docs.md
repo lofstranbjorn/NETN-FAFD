@@ -8,9 +8,10 @@ visible: true
 
 The use-case in this tutorial is a generic Staff Training Computer Assisted Exercise (CAX). This will help us develop a conceptual model and a federation design that will use NETN FAFD constructs to represent the synthetic environment.  
 
-![](Slide3.jpg)
-
 In Staff Training CAX the Trainees (Training Audience) exercise their staff processes and train on the procedures and tasks associated with their role in the organization. _Train as you fight_ - mean that the training audiende interactions should be so realistic that it feels like the real environment. Simulation is used to stimulate real systems with information or to provide simulations as interactive substitutes to real systems and environments. 
+
+
+![](Slide3.jpg)
 
 * Live simulation is when the training audience use real physical objects, systems or people to interact with the synthetic environment
 * Virtual simulation is when the training audience interact with the synthetic environment using a virtual and visual representation of the environment
