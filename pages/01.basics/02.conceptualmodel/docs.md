@@ -17,5 +17,7 @@ In this tutorial we will use a conceptual model to represent a synthetic environ
 
 The conceptual model we will use include aspects of combatant and non-combatant forces, platforms, sensors, weapons and other equipment. Processes and behaviour concepts such as orders, missions, tasks and reporting are also included as well as synthetic natural environment (SNE) aspects such as terrain, weather etc. The level of fidelity in the conceptual model is limited and the federation design is only one of many possible.
 
+We have choosen a design that is sutiable for demonstrating the use of the NETN FAFD FOM modules and patterns of interplay.
+
 
 
