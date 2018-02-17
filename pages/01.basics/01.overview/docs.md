@@ -7,16 +7,14 @@ visible: true
 ---
 
 The NATO Education and Training Network (NETN) Federation Architecture and FOM Design (FAFD)
-document is a reference document intended to provide architecture and design guidance for developing
-distributed simulation and training systems. 
+document is a reference document intended to provide architecture and design guidance for developing distributed simulation and training systems. 
 
-Current version of the NETN FAFD is published by NATO as STANREC 4800 and is publically available. 
+The NETN FAFD maintained and published by NATO as an Allied Modelling and Simulation Publication (AMSP-04) and is covered by NATO STANREC 4800. The document and associated data files are publically available for download.
 
-! NETN FAFD is based on RPR-FOM v2.0 and any RPR-FOM based Federate is per definition NETN compliant. 
+In this tutorial the focus is the use of the NETN FAFD when designing, implementing and executing distributed federated simulations using IEEE 1516 High-Level Architecture (HLA) as the core technical interoperability standard and with the NETN FAFD Federation Object Model (FOM) Modules as the information exchange object model. 
+
+! NETN FAFD is based on the RPR-FOM v2.0 and any RPR-FOM based Federate is per definition NETN compliant. 
 ! But that definitely does not meen fully compliant as you will discover later in this documentation.
-
-In this documentation the main focus is use of the NETN FAFD when designing, implementing and executing distributed 
-federated simulations using the IEEE 1516 **High-Level Architecture** (HLA) as the core technical interoperability standard and the NETN FAFD **Federation Object Model** (FOM) Modules as the associated information exchange object model. 
 
 ### Quick Intro to the Lingo
 
