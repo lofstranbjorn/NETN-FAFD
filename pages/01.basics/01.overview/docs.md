@@ -1,5 +1,6 @@
 ---
 title: Basics
+media_order: 'federation.jpg,Picture1.jpg'
 taxonomy:
     category:
         - docs
