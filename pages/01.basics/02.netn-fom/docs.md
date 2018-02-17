@@ -28,4 +28,5 @@ The Following FOM Modules are defined as part of the NETN FOM
 * NETN Repair
 * NETN Transport
 * NETN Supply
-* MSDL
+* NETN MSDL
+* NETN Weather
