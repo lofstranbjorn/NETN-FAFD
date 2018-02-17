@@ -1,9 +1,9 @@
 ---
-title: Platforms
+title: Movement
 ---
 
 ### Chapter 2
 
-# Platforms
+# Movement
 
 How to represent simulated Platforms in NETN Federations
