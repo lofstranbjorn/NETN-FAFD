@@ -13,8 +13,7 @@ Based on the conceptual model and the overall federation requirements, an alloca
 
 In this tutorial we will use a conceptual model to represent a synthetic environment in support of a typical Staff Training Computer Assisted Exercise (CAX). 
 
-
-
+![](Slide3.jpg)
 
 ### Conceptual Model
 
