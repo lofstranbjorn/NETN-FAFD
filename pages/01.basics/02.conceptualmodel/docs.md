@@ -1,14 +1,10 @@
 ---
-title: Federation Agreement
+title: 'Conceptual Model'
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
-
-A Federation Agreement is a specification of how FOM Modules and HLA services should be used to support a distributed simulation. 
-This documentation specifies best practices and federation agreements for typical NETN FAFD based federations in support of Staff Training 
-Computer Assisted Exercises (CAX). 
-
-## Conceptual Model
 
 The basis for any federation design is a conceptual model describing what needs to be represented in the synthetic environment and the 
 relationship between these concepts. Based on the conceptual model and the overall federation requirements, an allocation of modelling 
