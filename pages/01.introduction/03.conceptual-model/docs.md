@@ -15,6 +15,8 @@ The conceptual model we will use include aspects of combatant and non-combatant 
 
 In short, we want to represent units on a battlefield moving around, detecting enemy forces using available sensors, engaging the enemy with weapons, consuming resources such as fuel and food, reporting to and taking orders from superiour units. The abilities of a unit will be affected by terrain, weather, availability and damage state of resources and equipment. 
 
+
+
 ### Allocation of Modelling Responsibilities
 
 We have choosen a design that is sutiable for demonstrating the use of the NETN FAFD FOM modules and patterns of interplay.
