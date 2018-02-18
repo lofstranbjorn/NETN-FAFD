@@ -15,7 +15,7 @@ The conceptual model we will use include aspects of combatant and non-combatant 
 
 In short, we want to represent units on a battlefield moving around, detecting enemy forces using available sensors, engaging the enemy with weapons, consuming resources such as fuel and food, reporting to and taking orders from superiour units. The abilities of a unit will be affected by terrain, weather, availability and damage state of resources and equipment. 
 
-
+![](Slide4.jpg)
 
 ### Allocation of Modelling Responsibilities
 
