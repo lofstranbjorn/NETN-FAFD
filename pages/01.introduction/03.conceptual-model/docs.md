@@ -1,6 +1,6 @@
 ---
 title: 'Conceptual Model'
-media_order: 'Slide4.jpg,Slide6.jpg,Slide5.jpg'
+media_order: 'Slide4.jpg,Slide5.jpg'
 taxonomy:
     category:
         - docs
