@@ -1,5 +1,6 @@
 ---
 title: 'Conceptual Model'
+media_order: 'Slide4.jpg,Slide6.jpg,Slide5.jpg'
 taxonomy:
     category:
         - docs
@@ -21,3 +22,4 @@ In short, we want to represent units on a battlefield moving around, detecting e
 
 ### Objects
 
+![](Slide6.jpg)
