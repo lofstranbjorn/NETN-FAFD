@@ -18,7 +18,7 @@ In Staff Training CAX the Trainees (Training Audience) exercise their staff proc
 
 ! In the definition of Live simulation we include interaction with real-systems such as C2 system
 ! software configured for use in training. In the definition we also include interaction with 
-! mockup environments, weapons for use in training and role-play performed by Response Cells staff 
+! mockup environments, weapons for use in training and role-play performed by _Response Cell_ staff 
 ! acting as subordinates, superiors or any other role that use human interaction 
 ! with the training audience.
 
