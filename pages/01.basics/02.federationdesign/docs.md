@@ -22,7 +22,7 @@ In Staff Training CAX the Trainees (Training Audience) exercise their staff proc
 ! acting as subordinates, superiors or any other role that require human interaction 
 ! with the training audience.
 
-In this tutorial we will mainly focus on distributed constructive simulation.
+In this tutorial we will focus on distributed constructive simulation.
 
 ### Conceptual Model
 
