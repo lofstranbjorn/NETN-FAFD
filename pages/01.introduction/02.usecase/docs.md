@@ -8,7 +8,7 @@ visible: true
 
 The use-case in this tutorial is a generic Staff Training Computer Assisted Exercise (CAX). This will help us develop a conceptual model and a federation design that will use NETN FAFD constructs to represent the synthetic environment.  
 
-In Staff Training CAX the Trainees (Training Audience) exercise their staff processes and the procedures and tasks associated with their role in the organization. _Train as you fight_ - means that the training audiende interactions with the training environment should be realistic enough to make it feel like the real world. Simulation is used to stimulate real systems with information or to provide simulations as interactive substitutes to real systems and environments. 
+In Staff Training CAX the Trainees (Training Audience) exercise their staff processes and the procedures and tasks associated with their role in the organization. _Train as you fight_ - means that the training audience interactions with the training environment should be realistic enough to make it feel like the real world. Simulation is used to stimulate real systems with information or to provide simulations as interactive substitutes to real systems and environments. 
 
 ![](Slide3.jpg)
 
