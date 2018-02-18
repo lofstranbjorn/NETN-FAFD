@@ -1,5 +1,8 @@
 ---
 title: 'Conceptual Model'
+taxonomy:
+    category:
+        - docs
 visible: true
 ---
 
