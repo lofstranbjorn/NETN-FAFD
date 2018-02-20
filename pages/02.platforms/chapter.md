@@ -1,9 +1,9 @@
 ---
-title: Movement
+title: 'Units and Platforms'
 ---
 
 ### Chapter 2
 
-# Movement
+# Organizational Units & Entity Level Platforms
 
-How to represent simulated Platforms in NETN Federations
+Representation of simulated aggregate orginizational units and entity level platforms
