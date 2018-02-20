@@ -10,19 +10,15 @@ visible: true
 Aggregate Units are represented in an NETN Federation as an instance of the HLA object class *HLAobjectRoot.Unit* with the follwing attributes.
 
 Identifiers
-- Name
-- UUID
+- Name, AggregateMarking
+- UUID, UniqueID, EntityIdentifier
 - Callsign
-- EntityIdentifier
-- UniqueID
 
 Organizational Attributes
-- SuperiorUnit
-- SubUnits
-- Force
-- ForceIdentifier
-- HigherHeadquarters
-- EmbeddedUnitList
+- SuperiorUnit, HigherHeadquarters
+- SubUnits, EmbeddedUnitList, SilentAggregates, SubAggregateIdentifiers, EntityIdentifiers, EntityList
+- Force, ForceIdentifier
+- Echelon
 
 Resources
 - Holdings
@@ -39,50 +35,43 @@ Type Classification
 - TypeServiceCode
 - CommandFunctionIndicatorCode
 
-- SymbolIdentifier
+- SymbolIdentifier, Symbol
 - SymbolIdentifierEchelon
 - SymbolIdentifierDesignation
 
 State Attributes
-- Location
-- Spatial
-- RelativeSpatial
-- Footprint
-- Dimensions
+- Location, Spatial, RelativeSpatial
+- Footprint, Dimensions
+- Mounted, IsPartOf
 
-
+Capabilities
 - CombatValue
+- CaptureStatus
 
 Modelling Attributes
 - Federate
 - IsSimulationEntity
 
-Actitivity
+Activity
 - Mission
 - Activity
-
-
-- VisualSignature
 - SourceUnit
-- Mounted
-- WeaponsControlOrder
 - SupportUnit
-- Symbol
-- CaptureStatus
-- Echelon
+- WeaponsControlOrder
+- Formation
+
+Signatures
+- VisualSignature
 - HUMINTSignature
 - ElectronicSignature
 - CoverStatus
-- EntityList
+
+
+
 - Status
 
-
-- AggregateMarking
 - AggregateState
-- EntityIdentifiers
-- Formation
 - NumberOfSilentEntities
 - NumberOfVariableDatums
-- SilentAggregates
-- SubAggregateIdentifiers
-- IsPartOf
+
+
