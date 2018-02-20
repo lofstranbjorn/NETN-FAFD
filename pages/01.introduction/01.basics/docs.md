@@ -35,25 +35,6 @@ The NETN FOM is a defined set of HLA FOM Modules and is a combination of standar
 
 In any NETN based HLA federation one or more of the NETN FOM modules can be used. Each FOM Module represent types of objects and events (interactions) that are used to exchange information between Federates (federated systems). Federates in an NETN federation publish and subscribe to the classes defined in the NETN FOM and use HLA services to send and receive updates of object attributes and interaction parameters. Individual NETN FOM Modules can be extended and included as part of other FOMs.
 
-The Following FOM Modules are defined as part of the NETN FOM
-
-* RPR-FOM v2.0 FOM Modules
-* NETN Base
-* NETN Service Consumer/Provider Base
-* NETN Physical
-* NETN Aggregate
-* NETN TMR
-* NETN MRM
-* NETN HCBML
-* NETN LBML
-* NETN CBRN
-* NETN Storage
-* NETN Repair
-* NETN Transport
-* NETN Supply
-* NETN MSDL
-* NETN Weather
-
 ! In HLA 4 (IEEE 1516-201x) object classes can be extended by adding attributes the the existing class.
 ! In HLA Evolved (IEEE 1516-2010) the attributes were added by subclassing RPR-FOM classes to 
 ! add attributes.
