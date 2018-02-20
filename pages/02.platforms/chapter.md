@@ -1,9 +1,9 @@
 ---
-title: 'Units and Platforms'
+title: 'Units & Platforms'
 ---
 
 ### Chapter 2
 
-# Organizational Units & Entity Level Platforms
+# Units & Platforms
 
 Representation of simulated aggregate orginizational units and entity level platforms
