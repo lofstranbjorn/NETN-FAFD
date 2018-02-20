@@ -14,5 +14,5 @@ There are basically two (2) approaches to simulate an aggregate unit.
 1. Model and Simulate the unit's individual resources and sub-units and then represent the unit by combining the result
 2. Model and Simulate on an aggregate level and do not explicitly represent individual resources and sub-units
 
-However, in many cases the most common approach is to allow a combination if the two approaches where some individual resources and some sub-units are simulated while others are modelled at an aggregate level. Furthermore, the selection of which resources or sub-units to model individually may change  dynamically during the execution of an exercise. This behaviour is called Multi-Resolution Modelling (MRM), Aggregation/Disaggregation, or unit divide/join. 
+However, in many cases the most common approach is to allow a combination if the two approaches where some individual resources and some sub-units are simulated while others are modelled at an aggregate level. Furthermore, the selection of which resources or sub-units to model individually may change  dynamically during the execution of an exercise. This behaviour is called Multi-Resolution Modelling (MRM), Aggregation/Disaggregation, or unit divide/join and will be explored later in this tutorial.
 
