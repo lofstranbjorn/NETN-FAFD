@@ -6,4 +6,3 @@ taxonomy:
 child_type: docs
 ---
 
-
