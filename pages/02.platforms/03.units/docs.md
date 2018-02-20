@@ -7,7 +7,7 @@ child_type: docs
 visible: true
 ---
 
-Aggregate Units are represented as HLA Object Class instances in an NETN Federation. The FOM Module used is NETN_Aggregate_Entity which extends the RPR-FOM Module Aggregate_Entity with additional attributes.
+Aggregate Units are represented as _NETN_AggregateEntity_ HLA object class instances as defined in the _NETN_Aggregate_Entity_ FOM Module.
 
 ! In HLA 4 (IEEE 1516-201x) object classes can be extended by adding attributes the the existing class.
 ! In HLA Evolved (IEEE 1516-2010) the attributes were added by subclassing RPR-FOM classes to 
