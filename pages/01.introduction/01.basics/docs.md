@@ -54,6 +54,12 @@ The Following FOM Modules are defined as part of the NETN FOM
 * NETN MSDL
 * NETN Weather
 
+! In HLA 4 (IEEE 1516-201x) object classes can be extended by adding attributes the the existing class.
+! In HLA Evolved (IEEE 1516-2010) the attributes were added by subclassing RPR-FOM classes to 
+! add attributes.
+! In IEEE 1516-2000 and HLA v1.3 the was no FOM Module concept and the additional attributes were added 
+! by directly modifying the FOM.
+
 ### Federation Agreements
 
 A Federation Agreement is a specification of how FOM Modules and HLA services should be used to support a distributed simulation. This tutorial specifies best practices and federation agreements for typical NETN FAFD based federations in support of Staff Training 
