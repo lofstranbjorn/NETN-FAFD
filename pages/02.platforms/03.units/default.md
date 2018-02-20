@@ -6,8 +6,4 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 3
 
-# Aggregate Unit
-
-How to represent Units as Aggregates in an NETN Federation
