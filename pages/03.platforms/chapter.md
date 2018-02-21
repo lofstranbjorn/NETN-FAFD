@@ -1,9 +1,9 @@
 ---
-title: 'Aggregated Units'
+title: Platforms
 ---
 
 ### Chapter 2
 
-# Multi Resolution Modelling
+# Platforms
 
 Representation of simulated aggregate orginizational units and entity level platforms
