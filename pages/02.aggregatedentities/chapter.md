@@ -1,9 +1,9 @@
 ---
-title: Platforms
+title: aggregates
 ---
 
-### Chapter 2
+### Chapter 3
 
-# Platforms
+# Aggregated Units
 
 Representation of simulated aggregate orginizational units and entity level platforms
