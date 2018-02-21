@@ -2,8 +2,8 @@
 title: aggregates
 ---
 
-### Chapter 3
+### Chapter x
 
 # Aggregated Units
 
-Representation of simulated aggregate orginizational units and entity level platforms
+Representation of simulated aggregate orginizational units
