@@ -1,5 +1,5 @@
 ---
-title: aggregates
+title: 'Aggregated Units'
 ---
 
 ### Chapter x
