@@ -1,5 +1,5 @@
 ---
-title: 'Multi Resolution Modelling'
+title: 'Physical Entities'
 ---
 
 ### Chapter 2
